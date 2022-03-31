@@ -1,6 +1,6 @@
 # Inhatc_Software_Development
 
-[프로젝트 명 : 배보다 배꼽이 큰 배달료]
+[프로젝트 명 : 배배배(배보다 배꼽이 큰 배달료)]
 
 [팀명 : 슈퍼노바(supernova)] *5조
 
